@@ -38,6 +38,7 @@ Currently, I focus on projects related to:
 - 🎮 **Computer graphics and game engine development**
 - 🧩 **Procedural generation (Perlin noise, terrain systems)**
 - 💻 **GPU and graphics pipeline**
+- 🖧 **Full stack with Golang and html,css,javascrip**
 
 ---
 
@@ -63,6 +64,7 @@ These projects help me understand how **graphics engines, programming languages,
 
 - C++
 - Python
+- Golang
 - C
 
 **Graphics / Systems**

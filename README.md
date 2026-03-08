@@ -121,7 +121,6 @@ Feel free to connect or discuss systems programming, graphics, or compilers.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BigMoneyKai/BigMoneyKai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BigMoneyKai/BigMoneyKai/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BigMoneyKai/BigMoneyKai/output/pacman-contribution-graph.svg">
 </picture>
 
 ###

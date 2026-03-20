@@ -34,6 +34,7 @@ I enjoy building low-level software and understanding how things work under the 
 Currently, I focus on projects related to:
 
 - ⚙️ **C/C++ systems programming**
+- 🎢 **Graphic engine "Super Nova" leader developer**
 - 🧠 **Compiler design and language implementation**
 - 🎮 **Computer graphics and game engine development**
 - 🧩 **Procedural generation (Perlin noise, terrain systems)**

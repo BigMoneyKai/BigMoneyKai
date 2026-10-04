@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋Kai here!</h1>
-email: 1600268125@qq.com
-###
+<h2> Email: 1600268125@qq.com</h2>
 
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="12" />
